@@ -1,0 +1,16 @@
+.root {
+    -fx-background-image: url("lose.jpg");
+	-fx-background-size: 200px 160px;
+	-fx-background-repeat: no-repeat;
+	-fx-background-color: #FFFFFF;
+	
+}
+.button {
+	-fx-background-color: linear-gradient(#dfcbbc, #c0ac9c);
+	
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(#c3aca6, #c19e94);
+	-fx-text-fill: #000000;
+}

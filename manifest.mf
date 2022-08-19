@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+X-COMMENT: Main-Class will be added automatically by build
+Package-Name: gamegui
+Main-Class: gamegui.GameGUI
+
+
+

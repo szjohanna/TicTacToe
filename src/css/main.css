@@ -1,0 +1,33 @@
+.root {
+     -fx-background-image: url("board-wo-bg.png");
+	 -fx-background-position:top;
+	 -fx-background-repeat:no-repeat;
+	 -fx-alignment: top-center;
+	 -fx-background-color: #FFFFFF;
+}
+
+.button {
+    -fx-background-color: transparent;
+}
+
+#start {
+	-fx-background-color: linear-gradient(#dfcbbc, #c0ac9c);
+	-fx-font-size: 14px;
+	-fx-font-family: "Garamond";
+	
+}
+#start:hover {
+    -fx-background-color: linear-gradient(#c3aca6, #c19e94);
+	-fx-text-fill: #000000;
+}
+
+#restart {
+	-fx-background-color: linear-gradient(#dfcbbc, #c0ac9c);
+	-fx-font-size: 14px;
+	-fx-font-family: "Garamond";
+	
+}
+#restart:hover {
+    -fx-background-color: linear-gradient(#c3aca6, #c19e94);
+	-fx-text-fill: #000000;
+}
